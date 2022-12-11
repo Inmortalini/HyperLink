@@ -1,3 +1,4 @@
 Esta es la carpeta de pedro
 edad 27
 naci en bolivia viviendo en todo el mundo
+Soy muy alto
