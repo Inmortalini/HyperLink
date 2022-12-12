@@ -2,6 +2,7 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color:red;
+    background-color: blue;
 }
 .todo{
     background-color: blanchedalmond;
