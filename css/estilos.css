@@ -1,5 +1,23 @@
 body{
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
     color:red;
+}
+.todo{
+    background-color: blanchedalmond;
+    width: 70%;
+    border: 1px;
+}
+#cabecera{
+    background-color: aqua;
+    color:darkblue;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    box-shadow: 40px 50px 5px 0px rgba(110,77,110,0.53);
+    height: 200px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+
 }
